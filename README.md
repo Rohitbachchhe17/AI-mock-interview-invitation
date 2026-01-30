@@ -22,6 +22,9 @@ Output:
 Email:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4a068984-2621-4ce1-9aeb-a6054e998a42" />
 
+Video Interview:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c876befa-3a0f-45b3-a6aa-70e279cfce09" />
+
 ---
 
 ## 🚀 Project Overview
